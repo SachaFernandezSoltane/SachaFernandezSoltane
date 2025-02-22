@@ -9,8 +9,11 @@
 
 <h2 align="center">My GitHub Stats 🔭</h2>
 
-[![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachaFernandezSoltane&layout=compact)
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=SachaFernandezSoltane&theme=dark)](https://git.io/streak-stats)
 
 <h2 align="center">Languages and Tools:</h2>
