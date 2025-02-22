@@ -24,7 +24,7 @@ Feel free to check out my projects and connect with me! 🔗
   </a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/>
