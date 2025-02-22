@@ -13,8 +13,9 @@ Feel free to check out my projects and connect with me! 🔗
 
 <p align="center">
   <a href="https://github.com/SachaFernandezSoltane/Les-Transmusicales">
-    <img src="https://img.shields.io/github/stars/SachaFernandezSoltane/Les-Transmusicales?style=social" alt="Project 1" width="200"/>
+    <img src="https://img.shields.io/github/stars/SachaFernandezSoltane/Les-Transmusicales?style=social" alt="Les Transmusicales" width="200"/>
   </a>
+  <span style="font-size: 20px; font-weight: bold; margin-left: 10px;">Les Transmusicales</span>
 </p>
 
 <h3 align="center">Other Projects</h3>
