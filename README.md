@@ -1,10 +1,6 @@
-<div style="position: relative; text-align: center;">
-  <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF" width="500">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
-    Bonjour, moi c'est Sacha 
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF" width="500"/>
+</p>
 
 <h2 align="center">My GitHub Stats 🔭</h2>
 
