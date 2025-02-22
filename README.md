@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF" width="500"/>
+  <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF" width="800"/>
 </p>
 
 <h2 align="center">My GitHub Stats 🔭</h2>
