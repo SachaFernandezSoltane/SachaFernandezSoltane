@@ -13,21 +13,10 @@ Feel free to check out my projects and connect with me! 🔗
 
 <p align="center">
   <a href="https://github.com/SachaFernandezSoltane/Les-Transmusicales">
-    <img src="https://img.shields.io/github/stars/SachaFernandezSoltane/Les-Transmusicales?style=social" alt="Les Transmusicales" width="200"/>
+    <img src="https://img.shields.io/github/stars/SachaFernandezSoltane/Les-Transmusicales?style=social" alt="Les Transmusicales" width="50"/>
   </a>
   <span style="font-size: 20px; font-weight: bold; margin-left: 10px;">Les Transmusicales</span>
 </p>
-
-<h3 align="center">Other Projects</h3>
-<p align="center">
-  <a href="https://github.com/SachaFernandezSoltane/ProjectName4">
-    <img src="https://img.shields.io/github/last-commit/SachaFernandezSoltane/ProjectName4" alt="Project 4" width="200"/>
-  </a>
-  <a href="https://github.com/SachaFernandezSoltane/ProjectName5">
-    <img src="https://img.shields.io/github/last-commit/SachaFernandezSoltane/ProjectName5" alt="Project 5" width="200"/>
-  </a>
-</p>
-
 
 <h2 align="center">My GitHub Stats 🔭</h2>
 
