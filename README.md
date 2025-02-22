@@ -3,7 +3,7 @@
 [![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/12/168/desktop-wallpaper-firewatch-1920x1080-pixel-art.jpg)](https://github.com/SachaFernandezSoltane/SachaFernandezSoltane)
 
 
-# My GitHub Stats 🔭
+# <h1 align="center">My GitHub Stats 🔭</h1>
 
   [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
   
