@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://github.com/SachaFernandezSoltane/SachaFernandezSoltane/blob/main/gif_sacha_dev.gif?raw=true" width="300" height="500"/>
   <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF" width="800" height="200"/>
   <p align="center">
     Hi there! I'm Sacha Fernandez Soltane, a passionate web developer 💻 currently working at Smartviser in Rennes 🇫🇷. I'm also pursuing a Master's degree in MIAGE (M2) 🎓 while working as a web development apprentice 👨‍💻.</p>
