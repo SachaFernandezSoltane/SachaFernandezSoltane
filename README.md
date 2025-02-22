@@ -4,10 +4,12 @@
 
 
 <h1 align="center">My GitHub Stats 🔭</h1>
-
-  [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align="center">
+    [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachaFernandezSoltane&layout=compact)
+</div>
+
 
 <!--
 **SachaFernandezSoltane/SachaFernandezSoltane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
