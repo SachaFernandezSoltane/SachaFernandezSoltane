@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/SachaFernandezSoltane/SachaFernandezSoltane">
-    <img src="https://e1.pxfuel.com/desktop-wallpaper/12/168/desktop-wallpaper-firewatch-1920x1080-pixel-art.jpg" alt="MasterHead" width="800" height="300">
+    <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF"  width="800" height="300">
   </a>
 </p>
 
