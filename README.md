@@ -13,7 +13,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane" alt="Sacha's GitHub stats" width="400"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaFernandezSoltane&layout=compact" alt="Top Langs" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaFernandezSoltane&layout=compact" alt="Top Langs" width="400"/>
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SachaFernandezSoltane&theme=dark)](https://git.io/streak-stats)
