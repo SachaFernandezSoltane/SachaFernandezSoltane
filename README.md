@@ -1,5 +1,12 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif" alt="GIF" width="800" height="200"/>
+  <p>
+    Hi there! I'm Sacha Fernandez Soltane, a passionate web developer 💻 currently working at Smartviser in Rennes 🇫🇷. I'm also pursuing a Master's degree in MIAGE (M2) 🎓 while working as a web development apprentice 👨‍💻.
+
+I love building applications 📱 and programs 🖥️ in my free time, constantly exploring new technologies 🚀 and improving my skills. Whether it's front-end, back-end, or full-stack development 🌐, I'm always excited to take on new challenges 💡 and create innovative solutions.
+
+Feel free to check out my projects and connect with me! 🔗
+  </p>
 </p>
 
 <h2 align="center">My GitHub Stats 🔭</h2>
