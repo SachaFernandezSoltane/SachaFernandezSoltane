@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachaFernandezSoltane&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SachaFernandezSoltane&theme=dark)](https://git.io/streak-stats)
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 
 
