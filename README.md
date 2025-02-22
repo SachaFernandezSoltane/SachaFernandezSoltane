@@ -2,8 +2,10 @@
 
 [![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/12/168/desktop-wallpaper-firewatch-1920x1080-pixel-art.jpg)](https://github.com/SachaFernandezSoltane/SachaFernandezSoltane)
 
+  [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
 
 # My GitHub Stats 🔭
+  [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   [![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane)](https://github.com/anuraghazra/github-readme-stats)
