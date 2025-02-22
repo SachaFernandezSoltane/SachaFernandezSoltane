@@ -1,10 +1,8 @@
-## Hi there 👋
-
-<h2 align="center">Welcome to My GitHub</h2>
+<h2 align="center">Hi there 👋</h2>
 
 <p align="center">
   <a href="https://github.com/SachaFernandezSoltane/SachaFernandezSoltane">
-    <img src="https://e1.pxfuel.com/desktop-wallpaper/12/168/desktop-wallpaper-firewatch-1920x1080-pixel-art.jpg" alt="MasterHead" width="800" height="400">
+    <img src="https://e1.pxfuel.com/desktop-wallpaper/12/168/desktop-wallpaper-firewatch-1920x1080-pixel-art.jpg" alt="MasterHead" width="800" height="300">
   </a>
 </p>
 
