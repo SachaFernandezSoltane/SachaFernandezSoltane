@@ -11,12 +11,17 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane" alt="Sacha's GitHub stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SachaFernandezSoltane" alt="Sacha's GitHub stats" width="350"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachaFernandezSoltane&layout=compact" alt="Top Langs" width="300"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SachaFernandezSoltane&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SachaFernandezSoltane&theme=dark" alt="GitHub Streak" width="400"/>
+  </a>
+</p>
+
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
